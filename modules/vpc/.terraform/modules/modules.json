@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vpc","Source":"terraform-google-modules/network/google","Version":"0.6.0","Dir":".terraform/modules/vpc/terraform-google-modules-terraform-google-network-1d3242b"},{"Key":"","Source":"","Dir":"."}]}
